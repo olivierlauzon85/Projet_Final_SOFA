@@ -1,0 +1,11 @@
+c:\users\201440740\documents\visual studio 2013\Projects\Le bière pong\Le bière pong\Le bière pong\bin\x86\Debug\Le bière pong.exe
+c:\users\201440740\documents\visual studio 2013\Projects\Le bière pong\Le bière pong\Le bière pong\bin\x86\Debug\Le bière pong.pdb
+c:\users\201440740\documents\visual studio 2013\Projects\Le bière pong\Le bière pong\Le bière pong\obj\x86\Debug\Le bière pong.csprojResolveAssemblyReference.cache
+c:\users\201440740\documents\visual studio 2013\Projects\Le bière pong\Le bière pong\Le bière pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\201440740\documents\visual studio 2013\Projects\Le bière pong\Le bière pong\Le bière pong\obj\x86\Debug\Le bière pong.exe
+c:\users\201440740\documents\visual studio 2013\Projects\Le bière pong\Le bière pong\Le bière pong\obj\x86\Debug\Le bière pong.pdb
+c:\users\201440740\documents\visual studio 2013\Projects\Le bière pong\Le bière pong\Le bière pong\bin\x86\Debug\Caméra.dll
+c:\users\201440740\documents\visual studio 2013\Projects\Le bière pong\Le bière pong\Le bière pong\bin\x86\Debug\Primitives.dll
+c:\users\201440740\documents\visual studio 2013\Projects\Le bière pong\Le bière pong\Le bière pong\bin\x86\Debug\ClavierEtSouris.dll
+c:\users\201440740\documents\visual studio 2013\Projects\Le bière pong\Le bière pong\Le bière pong\bin\x86\Debug\Content\Textures\BeerPong.xnb
+c:\users\201440740\documents\visual studio 2013\Projects\Le bière pong\Le bière pong\Le bière pong\bin\x86\Debug\Content\Fonts\Arial20.xnb
